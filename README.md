@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Computer Science Student passionate about Backend Development, Full-stack dev and Cybersecurity enthusiast.
+Currently building Java Spring Boot projects, Web dev and improving problem-solving skills.
+
+🌱 Currently learning something new every day in tech
+🛠️ Building projects to turn theory into real applications
+🧠 Debugging is my daily brain workout
+☕ Powered by curiosity and caffeine
+
+## 💻  Tech Stack 
+
+![Tech Stack](https://skillicons.dev/icons?i=java,mysql,html,css,js,react,nodejs)
