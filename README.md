@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Computer Science Student passionate about Backend Development, Full-stack dev and Cybersecurity enthusiast.
+I'm Software Engineer passionate about Backend Development, Full-stack dev and Cybersecurity enthusiast.
 Currently building Java Spring Boot projects, Web dev and improving problem-solving skills.
 
 🌱 Currently learning something new every day in tech
